@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int find_lcm(int, int);   // function prototype declaration
+int find_lcm(int, int);
 
 int main()
 {
